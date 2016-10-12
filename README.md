@@ -1,2 +1,3 @@
-# common-manifesto
-Common manifesto ala playbook; describing Companies, Cohorts, Chapters &amp; Commons
+# Common Manifesto
+
+Common manifesto ala playbook; describing Crews, Cohorts, Chapters &amp; Commons
