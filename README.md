@@ -1,6 +1,12 @@
-# Common Manifesto
+# Common Code Delivery Model
 
-Common manifesto ala playbook; describing Crews, Cohorts, Chapters &amp; Commons
+Welcome to Common Code's manifesto ala playbook upon our working culture and delivery model.
 
+We've been inspired by Spotify's Engineering Culture manifesto, and have now sought to fork and create our own; which will shape to solve our own challenges and needs.
 
-[Another File](AnotherFile.md)
+We've called our delivery model **Crews, Cohorts, Chapters &amp; Commons**
+
+- [Crews](Crews.md)
+- [Cohorts](Cohorts.md)
+- [Chapters](Chapters.md)
+- [Commons](Commons.md)
